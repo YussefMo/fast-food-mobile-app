@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "resturant-app",
-    "slug": "resturant-app",
+    "name": "restaurant-app",
+    "slug": "restaurant-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "resturantapp",
+    "scheme": "restaurantapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
