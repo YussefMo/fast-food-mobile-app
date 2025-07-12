@@ -15,7 +15,7 @@ export default function App() {
             <View className="flex-start">
               <Text className="small-bold text-primary">DELVER TO</Text>
               <TouchableOpacity className="flex-center flex-row gap-x-1 mt-0.5">
-                <Text className="paragraph-bold text-dark-100">Egypt</Text>
+                <Text className="paragraph-bold text-dark-100">Egypt </Text>
                 <Image source={images.arrowDown} className="size-3" resizeMode="contain" />
               </TouchableOpacity>
             </View>
